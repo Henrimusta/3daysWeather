@@ -9,4 +9,4 @@ By clickig a saved location program creates apicall for 5day / 3hr weather forec
 
 1st. run "npm i" to install necessary packages.
 2nd. create Config.js and add provided code to file.
-3rd. create .env and add provided code to file.
+3rd. create .env file to root and add provided code to file.
