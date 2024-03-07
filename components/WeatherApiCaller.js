@@ -6,7 +6,6 @@ const api = {
     url: process.env.EXPO_PUBLIC_API_URL
 }
 
-
 export function useWeatherApi(latitude, longitude, onWeatherReceived) {
 
 

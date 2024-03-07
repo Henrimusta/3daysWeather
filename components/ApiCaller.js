@@ -5,9 +5,6 @@ const api = {
     url: process.env.EXPO_PUBLIC_GEO_API_URL
 }
 
-/*const API_KEY = '703d2615e82828f52edf64eaa43c49a4'
-const API_URL = 'http://api.openweathermap.org/geo/1.0/reverse?'*/
-
 export default function ApiCaller({ latitude, longitude, onLocationReceived }) {
 
 
